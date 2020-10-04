@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kirillbrockij/АЯ-3/111/lab-01-parser
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /Users/kirillbrockij/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 715fc93 | Config-ID: c351cc1 ]
+-- [hunter] NLOHMANN_JSON_ROOT: /Users/kirillbrockij/.hunter/_Base/9a3594a/715fc93/c351cc1/Install (ver.: 3.6.1)
+-- [hunter] GTEST_ROOT: /Users/kirillbrockij/.hunter/_Base/9a3594a/715fc93/c351cc1/Install (ver.: 1.8.0-hunter-p11)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kirillbrockij/АЯ-3/111/lab-01-parser/cmake-build-debug
